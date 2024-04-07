@@ -30,11 +30,11 @@ cd whatsapp-linux
 
 2. Install dependencies
 ```bash
-bun install
+npm install
 ```
 
 3. Run or build
 ```bash
-bun start # compile and run
-bun run build # compile and build
+npm start # compile and run
+npm run build # compile and build
 ```
