@@ -1,0 +1,9 @@
+[Desktop Entry]
+
+Name=WhatsApp Linux
+Exec=whatsapp-linux
+Type=Application
+Icon=io.github.azvyae.WhatsappLinux
+Comment=WhatsApp for Linux, supports Wayland compositor automatically. Forked from Alberto Mimbrero's electron Whatsapp.
+Categories=Utility;Network;Chat;InstantMessaging;
+StartupWMClass=whatsapp-linux

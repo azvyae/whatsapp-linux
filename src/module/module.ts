@@ -1,11 +1,7 @@
 export default abstract class Module {
+  public beforeLoad() {}
 
-    public beforeLoad() {
-    }
+  public onLoad() {}
 
-    public onLoad() {
-    }
-
-    public onQuit() {
-    }
+  public onQuit() {}
 }
